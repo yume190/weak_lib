@@ -1,0 +1,1 @@
+https://forums.swift.org/t/weak-linking-of-frameworks-with-greater-deployment-targets/26017/10
